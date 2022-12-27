@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleks. I from Russia and I live in Cheboksary. Also his name is Che.
 
+- I am 21 old and now I work in media. It's cool job, but this sphere isn't my crash:)
+I realy like logic exercise and critical mind. 
+Programming I think a big logical constructor LEGO and this idea is some motivation for me.
 
-<!---
-AleksDamsky/AleksDamsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I use JavaScript, HTML, CSS, Bootstrap, SCSS. This things staying a base for beginner developers.
