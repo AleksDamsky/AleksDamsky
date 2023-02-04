@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Aleks. I from Russia and I live in Cheboksary. Also his name is Che.
-
-- I am 21 old and now I work in media. It's cool job, but this sphere isn't my crash:)
-I realy like logic exercise and critical mind. Everyday I try to decide exercise on algorithms.
-Programming I think a big logical constructor LEGO and this idea is some motivation for me.
-
-I use JavaScript, HTML, CSS, Bootstrap, SCSS. This things staying a base for beginner developers.
+- 👹 Hi, I’m Aleks. 
+- I from Russia and I live in Cheboksary.
+  - I learning JS, TS, HTML, PHP, Vue, React;
+  - I will become a big-boss at one day;
+  - {
+  "name": "javascript",
+  "author": "matt carter",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/javascript.svg",
+  "description": "JavaScript scripting language",
+  "order_online_url": "https://www.stickermule.com/marketplace/13530-javascript-hex-sticker",
+  "raster": "http://hexb.in/hexagons/javascript.png",
+  "filename": "meta/javascript.json"
+}
